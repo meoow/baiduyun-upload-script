@@ -33,7 +33,7 @@ Copy the text and substitute for the content of BDUSS variable in the script.
 bash    (needless to say)
 curl    (for uploading files)
 gzip    (if using compression)
-find    (for uploading direcotries)
+find,sed,tr,xargs    (for uploading direcotries)
 
 
 ##Usage

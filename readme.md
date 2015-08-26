@@ -30,10 +30,10 @@ Copy the text and substitute for the content of BDUSS variable in the script.
 把BDUSS的内容替换脚本里的同名变量。
 
 ##Requirement
-bash    (needless to say)
-curl    (for uploading files)
-gzip    (if using compression)
-find,sed,tr,xargs    (for uploading direcotries)
+bash    (needless to say)  
+curl    (for uploading files)  
+gzip    (if using compression)  
+find,sed,tr,xargs    (for uploading direcotries)  
 
 
 ##Usage

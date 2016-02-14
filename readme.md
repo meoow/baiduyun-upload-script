@@ -37,6 +37,7 @@ find,sed,tr,xargs    (for uploading direcotries)
 
 
 ##Usage
+* 更加友好的功能请使用 baiduyun.sh 代替
 ```sh
 # files are all uploaded to /upload folder
 # 所有文件都上传到 /upload 下
